@@ -11,5 +11,5 @@
 }
 .square:hover{
 	background-color:#fff;
-	transition-delay:1s;
+/* 	transition-delay:1s; */
 }
