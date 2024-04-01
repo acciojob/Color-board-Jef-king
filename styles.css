@@ -7,7 +7,7 @@
 	width:20px;
 	height:20px;
 	background-color:rgb(29,29,29);
-	transition:background-color 0.25s ease;
+	transition:all 0.1s ease;
 }
 .square:hover{
 	background-color:skyblue;
