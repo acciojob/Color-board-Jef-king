@@ -7,7 +7,7 @@ for (let x = 0; x < 800; x++) {
 	nSq.addEventListener("mouseover",(e)=>{
 		e.stopPropagation()
 		setTimeout(()=>{
-			nSq.style.backgoundColor="red";
-		},4000)
+			nSq.style.backgroundColor="red";
+		},1000)
 	})
 }
