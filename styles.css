@@ -7,7 +7,7 @@
 .square{
 	width:10px;
 	height:10px;
-	background-color:#1D1D1D;
+	background-color:blue;
 }
 .square:hover{
 	background-color:#000;
