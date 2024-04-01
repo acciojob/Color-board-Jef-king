@@ -5,10 +5,11 @@
 	gap:5px;
 }
 .square{
-	width:10px;
-	height:10px;
-	background-color:blue;
+	width:20px;
+	height:20px;
+	background-color:rgb(29,29,29);
+	transition:background-color 1s ease-out;
 }
 .square:hover{
-	background-color:#000;
+	background-color:skyblue;
 }
