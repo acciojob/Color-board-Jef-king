@@ -10,6 +10,3 @@
 	background-color:rgb(29,29,29);
 	transition: background-color 0.4s;
 }
-.square:hover{
-	background-color:skyblue;
-}
