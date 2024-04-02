@@ -5,8 +5,7 @@ for (let x = 0; x < 800; x++) {
   nSq.classList.add('square');
   box.appendChild(nSq);
 	nSq.addEventListener("mouseover",(e)=>{
-		nSq.style.backgroundColor='red'
-		e.stopPropagation()
+		nSq.style.backgroundColor='red';
 		setTimeout(()=>{
 			nSq.style.backgroundColor="rgb(29,29,29)";
 		},1000)
